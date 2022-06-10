@@ -1,0 +1,8 @@
+#!bin/bash
+echo "Best" >> bash/Best
+ls
+less Best
+cd Bash
+cd bash
+ls
+echo  -e #!bin/bashnecho Best
